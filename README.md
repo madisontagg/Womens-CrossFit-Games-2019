@@ -37,4 +37,4 @@ We can see that height did not play a factor in the outcome. Tia Toomey was not 
 Bar Graphs, Scatter Plots, Box-and-Whisker Plots, Map
 
 #### 👀 Lessons Learned:
-- Using Tableau for Datasets are useful for 
+Using Tableau for Datasets are useful for visualize the distribution of overall points along with various attributes like orgin and height.
